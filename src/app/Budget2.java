@@ -170,7 +170,7 @@ public class Budget2 extends javax.swing.JFrame {
         //        String date = dcn.format(jDateChooser1.getDate());
         //        jLabel1.setText(date.toString());
         int budget = Integer.valueOf(jTextField1.getText());
-        user.setBudget(user.budget + budget);
+        user.setBudget(user.getBudget() + budget);
         Home newHome = new Home(user);
         newHome.setVisible(true);
         dispose();

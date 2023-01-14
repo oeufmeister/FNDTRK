@@ -221,7 +221,7 @@ public class Pengeluaran extends javax.swing.JFrame {
        DataPengeluaran p = new DataPengeluaran(desc,amount,date);
        user.setDatapengeluaran(p);
        user.setTotalPeng(amount);
-       user.setBudget(user.budget-amount);      
+       user.setBudget(user.getBudget()-amount);      
       
        Home newHome = new Home(user);
        newHome.setVisible(true);
