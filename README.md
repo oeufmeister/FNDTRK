@@ -1,6 +1,7 @@
 Simple Java Swing app for OOP subject.
 
 Project Members : 
+
 2540130030 - ETHAN ELNATHAN MATHIAS
 2540117584 - STEVEN THE 
 2540102790 - THEODORE ADITYA OEI
