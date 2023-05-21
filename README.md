@@ -1,4 +1,4 @@
-Simple Java Swing app for OOP subject.
+# 🐱‍👤 Final Project for our OOP class made using java swing.
 
 Project Members : 
 
