@@ -1,4 +1,4 @@
-Final Project for our OOP class made using java swing.
+# 🐱‍👤 Final Project for our OOP class made using java swing.
 
 Project Members : 
 
